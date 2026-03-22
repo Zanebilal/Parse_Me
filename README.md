@@ -22,11 +22,6 @@ PeParser.exe <path_to_pe_file>
 PeParser.exe C:\Windows\System32\notepad.exe
 ```
 
-## Requirements
-
-- Windows OS
-- MSVC or MinGW compiler (builds with standard Win32 headers)
-
 ## Building
 
 Open the project in Visual Studio and build it 
