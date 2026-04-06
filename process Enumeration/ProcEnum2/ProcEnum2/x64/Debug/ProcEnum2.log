@@ -1,9 +1,0 @@
-﻿  enumProcesses.c
-C:\Users\MalDevUser\Desktop\ProcEnum2\ProcEnum2\enumProcesses.c(31,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\MalDevUser\Desktop\ProcEnum2\ProcEnum2\enumProcesses.c(34,23): warning C4047: '!=': 'DWORD' differs in levels of indirection from 'void *'
-C:\Users\MalDevUser\Desktop\ProcEnum2\ProcEnum2\enumProcesses.c(69,14): warning C4047: '==': 'DWORD' differs in levels of indirection from 'void *'
-C:\Users\MalDevUser\Desktop\ProcEnum2\ProcEnum2\enumProcesses.c(11,3): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
-C:\Users\MalDevUser\Desktop\ProcEnum2\ProcEnum2\enumProcesses.c(12,3): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
-C:\Users\MalDevUser\Desktop\ProcEnum2\ProcEnum2\enumProcesses.c(13,3): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
-C:\Users\MalDevUser\Desktop\ProcEnum2\ProcEnum2\enumProcesses.c(77,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
-  ProcEnum2.vcxproj -> C:\Users\MalDevUser\Desktop\ProcEnum2\x64\Debug\ProcEnum2.exe
